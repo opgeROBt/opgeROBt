@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @opgeROBt
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on study projects 
+- 💞️ 
 - 📫 How to reach me:  _'mij nie bellen'_
 
 <!---
